@@ -8,7 +8,7 @@ public class Ejercicio1 {
         this.suma = 0;
         this.contador = 0;
     }
-
+    
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
